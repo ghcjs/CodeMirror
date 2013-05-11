@@ -30,10 +30,8 @@ data-files:
     mode/tiki/tiki.js
     mode/less/less.js
     mode/sql/sql.js
-    mode/plsql/plsql.js
     mode/stex/stex.js
     mode/stex/test.js
-    mode/mysql/mysql.js
     mode/coffeescript/coffeescript.js
     mode/python/python.js
     mode/diff/diff.js
