@@ -1,5 +1,5 @@
 name:                ghcjs-codemirror
-version:             0.0.0.1
+version:             0.0.0.2
 synopsis:            Installs CodeMirror JavaScript files
 description:         CodeMirror is a versatile text editor implemented in
                      JavaScript for the browser. It is specialized for
@@ -11,7 +11,7 @@ license:             MIT
 license-file:        LICENSE
 maintainer:          Hamish.K.Mackenzie@gmail.com
 category:            Web
-build-type:          Custom
+build-type:          Simple
 cabal-version:       >=1.10
 data-dir:            .
 data-files:
